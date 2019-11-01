@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ICRDM_v0.aux
+The style file: apsrev4-1.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ICRDM_v0Notes.bib
+Database file #2: ICRDM.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--missing journal in Ema:2018bih
+Warning--missing journal in Akerib:2018lyp
+Warning--missing journal in Batell:2018fqo
+Warning--missing publisher in CRMC
+Warning--empty year in CRMC
+Warning--missing journal in Nadler:2019zrb
+You've used 28 entries,
+            5847 wiz_defined-function locations,
+            1854 strings with 21036 characters,
+and the built_in function-call counts, 27614 in all, are:
+= -- 1819
+> -- 643
+< -- 161
++ -- 206
+- -- 148
+* -- 4411
+:= -- 2735
+add.period$ -- 28
+call.type$ -- 28
+change.case$ -- 116
+chr.to.int$ -- 31
+cite$ -- 34
+duplicate$ -- 2613
+empty$ -- 2093
+format.name$ -- 388
+if$ -- 5418
+int.to.chr$ -- 1
+int.to.str$ -- 36
+missing$ -- 315
+newline$ -- 162
+num.names$ -- 84
+pop$ -- 1036
+preamble$ -- 1
+purify$ -- 139
+quote$ -- 0
+skip$ -- 976
+stack$ -- 0
+substring$ -- 694
+swap$ -- 2444
+text.length$ -- 67
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 380
+warning$ -- 6
+while$ -- 78
+width$ -- 0
+write$ -- 315
+(There were 6 warnings)

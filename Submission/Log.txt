@@ -1,0 +1,11 @@
+Changes to paper prior to re-submission.
+
+ * Reference to Beacom paper added in footnote 1.
+ * Footnote 2 added to address question concerning charged mesons.
+ * Added footnote 4, specifying the origin of BR(eta→pi chi chi).
+
+Things to modify.
+ * Modify plots using the correct values for the branching ratios as specified in the text.
+ * Fig. 1: BR's should specify the decay considered (BR(eta→pi chi chi) instead of BR(eta→chi chi)). [JA: Done.]
+ * Fig. 2 (bottom): The upper limit for the x-axis should not go over 5*10^-3.
+The notation BR(M→M' chi chi) is misleading as M' is not necessarily another meson (as in the case for pion decay). I'd suggest BR(M→X chi chi) as an alternative (changing the text accordingly).

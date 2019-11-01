@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Suppression of the Incident Proton Flux}{1}{section.1}
+\contentsline {section}{\numberline {2}The Resultant Dark Matter Flux}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}The Geometrical Factor}{2}{subsection.2.1}
+\contentsline {section}{\numberline {3}Full Derivation including Attenuation}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}The Supression Factor $Y_d(h, \theta , \phi )$}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Attenuation of the Proton Flux}{7}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Summary and Final Expression}{8}{subsection.3.3}
