@@ -1,0 +1,14 @@
+Explanation of data contained in this directory: ~/allMyStuff/BoostedDM/data/
+
+1. atmos_flux.csv
+
+    - Atmospheric flux of protons as measured by the AMS experiment
+    - Taken from https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.114.171103/protons_1800-SM.pdf which is supplementary material to PRL 114, 171103 (2015)
+    - two columns represent:
+        i.  the bin boundaries for the total flux - rigidity [GV]
+        ii. the flux contained in the bin between the (n-1)st and nth bin boundary in [m^2 sr s GV]^-1
+    - to obtain the plot in fig. 4 of the reference, need to obtain the R tilde from the bin widths
+
+2. pospelov[mass].npy
+    
+    - Numpy arrays containing the pospelov fluxes for dark matter masses 0.01, 0.1, and 1.0 GeV across a range Tchi in 10^-3 to 10^0 GeV
