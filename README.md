@@ -1,7 +1,6 @@
 # BoostedDM
 
 > There is a common issue with all direct detection experiments in that they lose sensitivity to light dark matter due to small nuclear recoils. We estimated the impact that inelastic collisions of cosmic rays in the atmosphere, producing light dark matter from meson decays, could have on the direct detection parameter space.
-### Light Dark Matter from Inelastic Cosmic Ray Collisions, *J. Alvey, M. Campos, M. Fairbairn, T. You*
 
 This repository is relevant to an article written in May 2019 with colleagues at King's College London and the University of Cambridge. Links to the webpages and PDF documents can be found below. Also included is a link to a presentation given by myself at the recent BUSSTEPP Summer School at the University of Glasgow.
 
