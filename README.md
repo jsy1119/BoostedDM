@@ -47,7 +47,7 @@ To understand how the atmosphere can act as a beam dump, we make some analogies 
 2. **Fixed Target** - Instead of the steel target in MiniBooNe, the nitrogen molecules in the atmosphere act as a fixed target for the cosmic rays.
 3. **Detector** - Direct detection benefits from a large detector size, and due to the atmospheric nature, we can utitlise any Earth based detector such as Xenon-1T to act as the endpoint of the beam dump. This is in contrast to the dedicated detector that needs to be present at MiniBooNe.
 
-![boosteddm](img/boosteddm.png){:width="500px"}
+![boosteddm](img/boosteddm.png)
 
 ## Conclusions: How does the atmosphere compare to MiniBooNe?
 
