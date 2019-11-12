@@ -58,7 +58,7 @@ To understand whether we should expect our method to compare to dedicated beam d
 
 Putting some numbers in, we find that our atmospheric beam dump experiment has approximately 5 orders of magnitude more protons on target than MiniBooNe. On the other hand, it also has a longer baseline by an amount that almost exactly cancels this. Thus, we can expect (and indeed we find the results shown below) that this atmospheric source of dark matter can compete with the dedicated beam dump experiements and does not require a specific experimental run. Instead it should just be considered in paralell with the existing and future (e.g. LZ) direct detection runs.
 
-![crresults](img/crresults.png){:width="500px"}
+![crresults](img/crresults.png)
 
 Here we show the results for a specific hadrophilic scalar mediator model where indeed the constraints derived from our inelastic cosmic ray dark matter (ICRDM) flux are comparable to those from MiniBooNe.
 
